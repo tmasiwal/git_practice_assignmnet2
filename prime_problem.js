@@ -1,8 +1,11 @@
 let a=25;
+let con=0;
 for(i=0;i<a;i++){
-if(i%a==0){
-console.log("true");
+if(a%i==0){
+con++;
 }
-else{
-console.log("false");
-}
+if(con==2){
+console.log("true)}
+else {
+console.log("false")}
+
