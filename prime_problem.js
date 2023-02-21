@@ -1,8 +1,12 @@
+
+let count=0
 let a=25;
 for(i=0;i<a;i++){
 if(i%a==0){
-console.log("true");
+count++
 }
-else{
-console.log("false");
+if (counbt==0){
+console.log("Yes)
+
 }
+
