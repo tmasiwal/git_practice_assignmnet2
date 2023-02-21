@@ -1,15 +1,12 @@
 
 let count=0
 let a=25;
-for(i=0;i<a;i++){
-if(i%a==0){
-count++
+if(a%i==0){
+con++;
 }
-if (counbt==0){
-console.log("Yes)
-
-}
+if(con==2){
+console.log("true)}
 else {
-console.log("No")
-}
+console.log("false")}
+
 
